@@ -1,10 +1,10 @@
 <template>
-  <div>
+  <Layout name="default">
     <header class="h-screen bg-gradient-to-r from-[#1CAC16] to-[#000] overflow-hidden">
       <div class="grid grid-cols-12 gap-8 h-full pt-10 lg:pt-0">
         <div class="col-span-12 lg:col-span-3 lg:col-start-3 flex items-center justify-center">
           <div class="relative">
-            <div class="orbit">
+            <div class="orbit" data-aos="zoom-in">
               <div class="orbit-object">
                 <i class="fab fa-php"></i>
               </div>
@@ -30,14 +30,14 @@
               </div>
             </div>
 
-            <div class="ping relative rounded-full overflow-hidden aspect-square w-[100px] md:w-[200px] xl:w-[300px] ring-4">
+            <div data-aos="zoom-in" class="ping relative rounded-full overflow-hidden aspect-square w-[100px] md:w-[200px] xl:w-[300px] ring-4">
               
               <Image src="/assets/img/fotominha.jpg" alt="" class="w-full object-cover" />
             </div>
           </div>
         </div>
 
-        <div class="col-span-12 lg:col-span-4 lg:col-start-7 flex items-center">
+        <div data-aos="fade-down" class="col-span-12 lg:col-span-4 lg:col-start-7 flex items-center">
           <div class="px-4 sm:px-8 md:px-16">
             <p class="font-sans text-white opacity-50 font-semibold">
               Olá! Eu me chamo
@@ -48,7 +48,7 @@
             </h1>
     
             <p class="font-mono text-white mb-5">
-              Sou um desenvolvedor back-end com 1+ ano de experiência que ama o que faz. ❤️
+              Sou um desenvolvedor back-end!
             </p>
 
             <p>
@@ -78,9 +78,20 @@
         </div>
       </div>
     </header>
-  </div>
+  </Layout>
 </template>
 
+<script setup>
+    import AOS from 'aos';
+    import 'aos/dist/aos.css'; // You can also use <link> for styles
+    // ..
+    AOS.init({
+      // Global settings:
+      startEvent: 'DOMContentLoaded', // name of the event dispatched on the document, that AOS should initialize on
+
+    });
+
+</script>
 
 <style scoped>
   @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/brands.min.css';
