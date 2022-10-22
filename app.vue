@@ -1,7 +1,7 @@
 <template>
   <Head>
     <title>
-      Vue + Laravel Mix = Vulmix
+      João Paulo
     </title>
 
     <meta name="title" content="Your application title">
