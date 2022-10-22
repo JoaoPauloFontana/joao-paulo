@@ -51,8 +51,8 @@
           <div class="px-4 sm:px-8 md:px-16 space-y-5">
             <p class="font-sans text-white opacity-50 font-semibold">
               Bom! Meu nome vocês já sabem, tenho 22 anos e sou desenvolvedor
-              web, atuando mais no back-end da aplicação. Minhas principal stack
-              é Laravel (PHP), MySQL e VueJS, mas também trabalho com NodeJS,
+              web, atuando mais no back-end da aplicação. Minhas principais stacks
+              são Laravel (PHP), MySQL e VueJS, mas também trabalho com NodeJS,
               MongoDB e React! Atualmente, estou desenvolvendo minhas
               habilidades técnicas e buscando cada vez mais aprendizado!
             </p>
