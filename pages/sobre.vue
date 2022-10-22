@@ -47,20 +47,21 @@
           </div>
         </div>
 
-        <div class="col-span-12 lg:col-span-4 lg:col-start-7 flex items-center">
+        <div data-aos="fade-down" class="col-span-12 lg:col-span-4 lg:col-start-7 flex items-center">
           <div class="px-4 sm:px-8 md:px-16 space-y-5">
             <p class="font-sans text-white opacity-50 font-semibold">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              Blanditiis totam, adipisci, ea inventore odio tempora praesentium
-              molestias non ex in necessitatibus excepturi magnam, asperiores
-              sunt soluta! Itaque molestiae explicabo neque!
+              Bom! Meu nome vocês já sabem, tenho 22 anos e sou desenvolvedor
+              web, atuando mais no back-end da aplicação. Minhas principal stack
+              é Laravel (PHP), MySQL e VueJS, mas também trabalho com NodeJS,
+              MongoDB e React! Atualmente, estou desenvolvendo minhas
+              habilidades técnicas e buscando cada vez mais aprendizado!
             </p>
 
             <p class="font-sans text-white opacity-50 font-semibold">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-              Blanditiis totam, adipisci, ea inventore odio tempora praesentium
-              molestias non ex in necessitatibus excepturi magnam, asperiores
-              sunt soluta! Itaque molestiae explicabo neque!
+              Eu possuo 1+ anos de experiência como desenvolvedor e durante esse
+              período eu já desenvolvi todo tipo de feat e sistemas, incluindo
+              sistemas do 0! Sou muito esforçado e dedicado. Não tenho medo de
+              desafios e sempre estou atrás de sempre mais!
             </p>
             <!--       
               <h1 class="font-mono text-white text-5xl mb-6 font-black">

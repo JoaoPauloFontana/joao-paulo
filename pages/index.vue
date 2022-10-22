@@ -44,11 +44,12 @@
             </p>
     
             <h1 class="font-mono text-white text-5xl mb-6 font-black">
-              João Paulo
+              João Paulo 
+              <!-- <Icon name="foguinho" /> -->
             </h1>
     
             <p class="font-mono text-white mb-5">
-              Sou um desenvolvedor back-end!
+              Sou um desenvolvedor back-end, apaixonado por PHP há 2 anos!
             </p>
 
             <p>
