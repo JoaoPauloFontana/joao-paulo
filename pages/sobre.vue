@@ -58,7 +58,7 @@
             </p>
 
             <p class="font-sans text-white opacity-50 font-semibold">
-              Eu possuo 1+ anos de experiência como desenvolvedor e durante esse
+              Eu possuo 2+ anos de experiência como desenvolvedor e durante esse
               período eu já desenvolvi todo tipo de feat e sistemas, incluindo
               sistemas do 0! Sou muito esforçado e dedicado. Não tenho medo de
               desafios e sempre estou atrás de sempre mais!
