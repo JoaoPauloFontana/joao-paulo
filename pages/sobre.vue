@@ -58,29 +58,11 @@
             </p>
 
             <p class="font-sans text-white opacity-50 font-semibold">
-              Eu possuo 1+ anos de experiência como desenvolvedor e durante esse
-              período eu já desenvolvi todo tipo de feat e sistemas, incluindo
-              sistemas do 0! Sou muito esforçado e dedicado. Não tenho medo de
-              desafios e sempre estou atrás de sempre mais!
+              Eu possuo 2+ anos de experiência como desenvolvedor, e, durante esse
+              período, eu já desenvolvi todo tipo de feat e sistemas! 
+              Sou muito esforçado e dedicado. Não tenho medo de
+              desafios e sempre estou atrás de aprender cada vez mais!
             </p>
-            <!--       
-              <h1 class="font-mono text-white text-5xl mb-6 font-black">
-                João Paulo
-              </h1>
-      
-              <p class="font-mono text-white mb-5">
-                Sou um desenvolvedor back-end com 1+ ano de experiência que ama o que faz. ❤️
-              </p>
-  
-              <p>
-                <ul class="text-white/50 list-disc ml-8">
-                  <li>PHP</li>
-                  <li>Laravel</li>
-                  <li>MySql</li>
-                  <li>JavaScript</li>
-                  <li>VUE</li>
-                </ul>
-              </p> -->
 
             <p class="mt-8 flex gap-5">
               <a
